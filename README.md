@@ -1,0 +1,3 @@
+- Model 15 çeşit yemeği tanımakta ve bunlar hakkında bilgi vermektedir.
+- Eğer model yemeği tanımazsa bu konuda bir uyarı verir.
+- Eğer kullanıcı bir yemek resmi göndermezse model bu konuda bir uyarı verir.
